@@ -70,17 +70,18 @@ ul {
     flex: 0 1 auto;
 }
 .info-flex-item img {
-    border-color: blue;
-    border-width: 3px;
-    width: 100%;
-    height: auto;
+    /* border-color: blue; */
+    /* border-width: 3px; */
+    /* border: 3px solid blue; */
+    /* width: 100%; */
+    /* height: auto; */
+    height: 20vw;
+    width: 20vw;
 }
 
 .quote {
     background-color: #E5E7EB;
 }
-
-
 
 .action {
     background-color: white;
@@ -126,12 +127,9 @@ ul {
 .border-rounded {
     border-radius: 3px;
 }
-
 .border-white {
     border-color: #F9FAF8;
 }
-
 .border-transparent {
     border-color: transparent;
 }
-
